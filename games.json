@@ -18,7 +18,8 @@
         "live_build_id": "23144138",
         "live_manifest_id": "6270962710389826897",
         "live_depot_id": "2560241",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "Biped 2"
     },
     {
         "id": "CookingSimulator2BetterTogether",
@@ -39,7 +40,8 @@
         "live_build_id": "23780008",
         "live_manifest_id": "8046506230613016205",
         "live_depot_id": "2455361",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "Cooking Simulator 2"
     },
     {
         "id": "FastFoodSimulator",
@@ -60,7 +62,8 @@
         "live_build_id": "20319156",
         "live_manifest_id": "222271375584572596",
         "live_depot_id": "2916431",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "Fast Food Simulator"
     },
     {
         "id": "ForzaHorizon6",
@@ -81,7 +84,8 @@
         "live_build_id": "23771820",
         "live_manifest_id": "2764632954154379576",
         "live_depot_id": "2483191",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "ForzaHorizon6"
     },
     {
         "id": "GambleWithYourFriends",
@@ -102,7 +106,8 @@
         "live_build_id": "23172976",
         "live_manifest_id": "1917689724381081508",
         "live_depot_id": "3892271",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "Gamble With Your Friends"
     },
     {
         "id": "GarfieldKart2",
@@ -123,7 +128,8 @@
         "live_build_id": "21557400",
         "live_manifest_id": "8857664312835024200",
         "live_depot_id": "3239651",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "Garfield Kart 2 - All You Can Drift"
     },
     {
         "id": "GTAIV",
@@ -144,7 +150,8 @@
         "live_build_id": "14009960",
         "live_manifest_id": "8070600747380932868",
         "live_depot_id": "12211",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "Grand Theft Auto IV"
     },
     {
         "id": "LOCKDOWNProtocol",
@@ -165,7 +172,8 @@
         "live_build_id": "23497098",
         "live_manifest_id": "4688261666521128328",
         "live_depot_id": "2780981",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "LOCKDOWN Protocol"
     },
     {
         "id": "MECCHACHAMELEON",
@@ -186,7 +194,8 @@
         "live_build_id": "23857067",
         "live_manifest_id": "8182557576071905454",
         "live_depot_id": "4704691",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "MECCHA CHAMELEON"
     },
     {
         "id": "OhDeer",
@@ -207,7 +216,8 @@
         "live_build_id": "15116523",
         "live_manifest_id": "7093378176883776929",
         "live_depot_id": "2708451",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "Oh Deer"
     },
     {
         "id": "Outbound",
@@ -228,7 +238,8 @@
         "live_build_id": "23857020",
         "live_manifest_id": "528078715930099396",
         "live_depot_id": "2681031",
-        "update_status": "update_available"
+        "update_status": "update_available",
+        "install_dir": "Outbound"
     },
     {
         "id": "PEAK",
@@ -249,7 +260,8 @@
         "live_build_id": "23538565",
         "live_manifest_id": "6036055717816575957",
         "live_depot_id": "3527291",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "PEAK"
     },
     {
         "id": "Phasmophobia",
@@ -270,7 +282,8 @@
         "live_build_id": "23542454",
         "live_manifest_id": "4999359286321001032",
         "live_depot_id": "739631",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "Phasmophobia"
     },
     {
         "id": "PICOPARK",
@@ -291,7 +304,8 @@
         "live_build_id": "20704864",
         "live_manifest_id": "1693052742714430748",
         "live_depot_id": "1509961",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "PICO_PARK_ONLINE"
     },
     {
         "id": "PICOPARK2",
@@ -312,7 +326,8 @@
         "live_build_id": "20063641",
         "live_manifest_id": "880294164879156752",
         "live_depot_id": "2644472",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "PICO PARK 2"
     },
     {
         "id": "PummelParty",
@@ -333,7 +348,8 @@
         "live_build_id": "20246854",
         "live_manifest_id": "8651477077702693582",
         "live_depot_id": "880941",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "Pummel Party"
     },
     {
         "id": "REPO",
@@ -354,7 +370,8 @@
         "live_build_id": "23363152",
         "live_manifest_id": "8225435692675993447",
         "live_depot_id": "3241661",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "REPO"
     },
     {
         "id": "Raft",
@@ -375,7 +392,8 @@
         "live_build_id": "22312909",
         "live_manifest_id": "4830832075480360897",
         "live_depot_id": "648801",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "Raft"
     },
     {
         "id": "RestAreaSimulator",
@@ -396,7 +414,8 @@
         "live_build_id": "23859645",
         "live_manifest_id": "5883120205914689264",
         "live_depot_id": "3732961",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "Rest Area Simulator"
     },
     {
         "id": "RVThereYet?",
@@ -417,7 +436,8 @@
         "live_build_id": "22864294",
         "live_manifest_id": "6388475935469519170",
         "live_depot_id": "3949041",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "Ride"
     },
     {
         "id": "Subnautica2",
@@ -438,6 +458,7 @@
         "live_build_id": "23446003",
         "live_manifest_id": "8163669658365755688",
         "live_depot_id": "1962701",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "install_dir": "Subnautica2"
     }
 ]
