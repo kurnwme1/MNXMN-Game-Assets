@@ -191,7 +191,11 @@
         "executable": "",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/LEGOBatmanLegacyoftheDarkKnight/LEGO_Batman_Legacy_of_the_Dark_Knight_patch.zip",
         "save_path": "",
-        "install_dir": "LEGO Batman - Legacy of the Dark Knight"
+        "install_dir": "LEGO Batman - Legacy of the Dark Knight",
+        "live_build_id": "23432817",
+        "live_manifest_id": "7325378332099278335",
+        "live_depot_id": "2215201",
+        "update_status": "up_to_date"
     },
     {
         "id": "LOCKDOWNProtocol",
