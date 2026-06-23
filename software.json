@@ -1,0 +1,19 @@
+[
+    {
+        "id": "WallpaperEngine",
+        "title": "Wallpaper Engine",
+        "_banner_url": "https://games.ajikurniawan.my.id/assets/WallpaperEngine.jpg",
+        "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1779452230",
+        "executable_main": "",
+        "executable_backup": "",
+        "executable": "",
+        "install_mode": "steam",
+        "patch_url": "",
+        "save_path": "",
+        "steam_app_id": "431960",
+        "steam_build_id": "23570248",
+        "steam_depot_id": "431961",
+        "manifest_id": "6381948049670661870",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/WallpaperEngine/WallpaperEngine.zip"
+    }
+]
