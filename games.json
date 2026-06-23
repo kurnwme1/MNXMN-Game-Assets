@@ -28,10 +28,11 @@
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/CookSim2_BT/CookingSimulator2BetterTogether_Fix_Repair_Steam_Generic.zip",
         "save_path": "",
         "steam_app_id": "2455360",
-        "steam_build_id": "23471187",
+        "steam_build_id": "23780008",
         "steam_depot_id": "2455361",
-        "manifest_id": "2422204734091150341",
-        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/CookSim2_BT/Cooking_Simulator_2_Better_Together.zip"
+        "manifest_id": "8046506230613016205",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/CookSim2_BT/Cooking_Simulator_2_Better_Together_23780008.zip",
+        "version": "23780008"
     },
     {
         "id": "FastFoodSimulator",
