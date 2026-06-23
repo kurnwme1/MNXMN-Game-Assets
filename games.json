@@ -13,7 +13,8 @@
         "manifest_id": "6270962710389826897",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/Biped2/Biped_2.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/Biped2/Biped.2_Fix_Repair_Steam_Generic.zip",
-        "save_path": ""
+        "save_path": "",
+        "steam_depot_id": 2560241
     },
     {
         "id": "CookingSimulator2BetterTogether",
@@ -46,7 +47,8 @@
         "manifest_id": "222271375584572596",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/FastFoodSimulator/Fast_Food_Simulator.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/FastFoodSimulator/FastFoodSimulator_Fix_Repair_Steam_Generic.zip",
-        "save_path": ""
+        "save_path": "",
+        "steam_depot_id": 2916431
     },
     {
         "id": "ForzaHorizon6",
@@ -62,7 +64,8 @@
         "manifest_id": "2764632954154379576",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/ForzaHorizon6/Forza_Horizon_6_2764632954154379576.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/ForzaHorizon6/ForzaHorizon6_Fix_Repair_Steam_Generic.zip",
-        "save_path": "%LOCALAPPDATA%\\ForzaHorizon6"
+        "save_path": "%LOCALAPPDATA%\\ForzaHorizon6",
+        "steam_depot_id": 2483191
     },
     {
         "id": "GambleWithYourFriends",
@@ -78,7 +81,8 @@
         "manifest_id": "1917689724381081508",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/GambleWithYourFriends/Gamble_With_Your_Friends.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/GambleWithYourFriends/GambleWithYourFriends_Fix_Repair_Steam_Generic.zip",
-        "save_path": ""
+        "save_path": "",
+        "steam_depot_id": 3892271
     },
     {
         "id": "GarfieldKart2",
@@ -94,7 +98,8 @@
         "manifest_id": "8857664312835024200",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/GarfieldKart2/Garfield_Kart_2_-_All_You_Can_Drift.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/GarfieldKart2/GarfieldKart2AllYouCanDrift_Fix_Repair_Steam_Generic.zip",
-        "save_path": ""
+        "save_path": "",
+        "steam_depot_id": 3239651
     },
     {
         "id": "LOCKDOWNProtocol",
@@ -110,7 +115,8 @@
         "manifest_id": "4688261666521128328",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/LOCKDOWNProtocol/LOCKDOWN_Protocol.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/LOCKDOWNProtocol/LOCKDOWNProtocol_Fix_Repair_Steam_V4_Generic.zip",
-        "save_path": ""
+        "save_path": "",
+        "steam_depot_id": 2780981
     },
     {
         "id": "OhDeer",
@@ -126,7 +132,8 @@
         "manifest_id": "7093378176883776929",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/OhDeer/Oh_Deer.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/OhDeer/OhDeer_Fix_Repair_Steam_Generic.zip",
-        "save_path": ""
+        "save_path": "",
+        "steam_depot_id": 2708451
     },
     {
         "id": "Outbound",
@@ -142,7 +149,8 @@
         "manifest_id": "4991741591092885682",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/Outbound/Outbound_4991741591092885682.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/Outbound/Outbound_Fix_Repair_Steam_Generic.zip",
-        "save_path": "%USERPROFILE%\\AppData\\LocalLow\\Square Glade Games\\Outbound"
+        "save_path": "%USERPROFILE%\\AppData\\LocalLow\\Square Glade Games\\Outbound",
+        "steam_depot_id": 2681031
     },
     {
         "id": "PEAK",
@@ -158,7 +166,8 @@
         "manifest_id": "6036055717816575957",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/PEAK/PEAK.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/PEAK/PEAK_Fix_Repair_Steam_V4_Generic.zip",
-        "save_path": ""
+        "save_path": "",
+        "steam_depot_id": 3527291
     },
     {
         "id": "Phasmophobia",
@@ -174,7 +183,8 @@
         "manifest_id": "4999359286321001032",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/Phasmophobia/Phasmophobia.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/Phasmophobia/Phasmophobia_Fix_Repair_Steam_V2_Generic.zip",
-        "save_path": "%USERPROFILE%\\AppData\\LocalLow\\Kinetic Games\\Phasmophobia"
+        "save_path": "%USERPROFILE%\\AppData\\LocalLow\\Kinetic Games\\Phasmophobia",
+        "steam_depot_id": 739631
     },
     {
         "id": "PICOPARK",
@@ -190,7 +200,8 @@
         "manifest_id": "1693052742714430748",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/PICOPARK/PICO_PARK.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/PICOPARK/PICOPARK_Fix_Repair_Steam_Generic.zip",
-        "save_path": ""
+        "save_path": "",
+        "steam_depot_id": 1509961
     },
     {
         "id": "PICOPARK2",
@@ -206,7 +217,8 @@
         "manifest_id": "977062023767142031",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/PICOPARK2/PICO_PARK_2.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/PICOPARK2/PicoPark2_Fix_Repair_Steam_Generic.zip",
-        "save_path": ""
+        "save_path": "",
+        "steam_depot_id": 2644472
     },
     {
         "id": "PummelParty",
@@ -222,7 +234,8 @@
         "manifest_id": "8651477077702693582",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/PummelParty/Pummel_Party.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/PummelParty/PummelParty_Fix_Repair_Steam_Generic.zip",
-        "save_path": ""
+        "save_path": "",
+        "steam_depot_id": 880941
     },
     {
         "id": "REPO",
@@ -238,7 +251,8 @@
         "manifest_id": "8225435692675993447",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/REPO/R.E.P.O.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/REPO/REPO_Fix_Repair_Steam_V5_Generic.zip",
-        "save_path": ""
+        "save_path": "",
+        "steam_depot_id": 3241661
     },
     {
         "id": "Raft",
@@ -254,7 +268,8 @@
         "manifest_id": "4830832075480360897",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/Raft/Raft.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/Raft/Raft_Fix_Repair_Steam.zip",
-        "save_path": ""
+        "save_path": "",
+        "steam_depot_id": 648801
     },
     {
         "id": "RestAreaSimulator",
@@ -270,7 +285,8 @@
         "manifest_id": "4670948165911980517",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/RestAreaSimulator-main/Rest_Area_Simulator.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/RestAreaSimulator-main/RestAreaSimulator_Fix_Repair_Steam_Generic.zip",
-        "save_path": "%LOCALAPPDATA%\\RestAreaSimulator\\Saved"
+        "save_path": "%LOCALAPPDATA%\\RestAreaSimulator\\Saved",
+        "steam_depot_id": 3732961
     },
     {
         "id": "RVThereYet?",
@@ -286,7 +302,8 @@
         "manifest_id": "6388475935469519170",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/RVThereYet/RV_There_Yet_.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/RVThereYet/RVThereYet_Fix_Repair_Steam_V2_Generic.zip",
-        "save_path": ""
+        "save_path": "",
+        "steam_depot_id": 3949041
     },
     {
         "id": "Subnautica2",
@@ -302,6 +319,7 @@
         "manifest_id": "8163669658365755688",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/Subnautica_2/Subnautica_2.zip",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/Subnautica_2/Subnautica2_Fix_Repair_Steam+Epic.Games_V4.1.1_Generic.BETA.zip",
-        "save_path": ""
+        "save_path": "",
+        "steam_depot_id": 1962701
     }
 ]
