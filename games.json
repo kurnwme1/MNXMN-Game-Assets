@@ -126,6 +126,23 @@
         "update_status": "up_to_date"
     },
     {
+        "id": "GTAIV",
+        "title": "Grand Theft Auto IV: The Complete Edition",
+        "_banner_url": "https://games.ajikurniawan.my.id/assets/GTAIV.jpg",
+        "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
+        "install_mode": "steam",
+        "steam_app_id": "12210",
+        "steam_build_id": "14009960",
+        "steam_depot_id": "12211",
+        "manifest_id": "8070600747380932868",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/GTAIV/GTAIV_lua.zip",
+        "executable_main": "GTAIV.exe",
+        "executable_backup": "PlayGTAIV.exe",
+        "executable": "",
+        "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/GTAIV/GTAIV_patch.zip",
+        "save_path": ""
+    },
+    {
         "id": "LOCKDOWNProtocol",
         "title": "LOCKDOWN Protocol",
         "_banner_url": "https://games.ajikurniawan.my.id/assets/LockdownProtocol.png",
