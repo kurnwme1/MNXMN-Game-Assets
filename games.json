@@ -120,6 +120,28 @@
         "steam_depot_id": 2780981
     },
     {
+        "id": "MECCHACHAMELEON",
+        "title": "MECCHA CHAMELEON",
+        "_banner_url": "https://games.ajikurniawan.my.id/assets/MECCHACHAMELEON.jpg",
+        "banner_url": "https://i.ibb.co.com/QjQR6xv2/mecchachameleon.jpg",
+        "categories": "Casual",
+        "description": "Paint yourself to blend in! &quot;Meccha Chameleon&quot; is a new-sensation hide-and-seek game where you paint your white body to mimic the stage. Spot, pose, and &quot;artistic skill&quot; are keys to survival. Deceive Seekers with techniques that put chameleons to shame! Supports public matches and streaming.",
+        "size": "",
+        "version": "23857067",
+        "updatetoggle": "",
+        "executable_main": "PenguinHotel.exe",
+        "executable_backup": "",
+        "executable": "",
+        "install_mode": "steam",
+        "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/MECCHACHAMELEON/MecchaChameleon_Fix_Repair_Steam_Generic.zip",
+        "save_path": "",
+        "steam_app_id": "4704690",
+        "steam_build_id": "23857067",
+        "steam_depot_id": "4704691",
+        "manifest_id": "8182557576071905454",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/MECCHACHAMELEON/MECCHA_CHAMELEON_23857067.zip"
+    },
+    {
         "id": "OhDeer",
         "title": "Oh Deer",
         "_banner_url": "https://games.ajikurniawan.my.id/assets/ohdeer.jpg",
