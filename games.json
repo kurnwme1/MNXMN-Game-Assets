@@ -235,7 +235,11 @@
         "executable": "",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/GrandTheftAutoVLegacy/Grand_Theft_Auto_V_Legacy_patch.zip",
         "save_path": "",
-        "install_dir": "Grand Theft Auto V"
+        "install_dir": "Grand Theft Auto V",
+        "live_build_id": "22282576",
+        "live_manifest_id": "8854874882423166314",
+        "live_depot_id": "271594",
+        "update_status": "up_to_date"
     },
     {
         "id": "GTASanAndreasTheDefinitiveEdition",
@@ -253,7 +257,11 @@
         "executable": "",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/GTASanAndreasTheDefinitiveEdition/GrandTheftAutoSanAndreas_TheDefinitiveEdition_patch.zip",
         "save_path": "",
-        "install_dir": "GTA San Andreas - The Definitive Edition"
+        "install_dir": "GTA San Andreas - The Definitive Edition",
+        "live_build_id": "16391096",
+        "live_manifest_id": "6814041191190748315",
+        "live_depot_id": "1547001",
+        "update_status": "up_to_date"
     },
     {
         "id": "LEGOBatmanLegacyoftheDarkKnight",
