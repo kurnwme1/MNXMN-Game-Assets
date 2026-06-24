@@ -427,16 +427,12 @@
         "steam_build_id": "20246854",
         "steam_depot_id": "880941",
         "manifest_id": "8651477077702693582",
-        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/PummelParty/Pummel_Party_lua.zip",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/PummelParty/Pummel_Party.zip",
         "executable_main": "PummelParty.exe",
         "executable_backup": "",
         "executable": "",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/PummelParty/Pummel_Party_patch.zip",
         "save_path": "",
-        "live_build_id": "20246854",
-        "live_manifest_id": "8651477077702693582",
-        "live_depot_id": "880941",
-        "update_status": "up_to_date",
         "install_dir": "Pummel Party"
     },
     {
