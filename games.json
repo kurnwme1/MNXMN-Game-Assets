@@ -231,14 +231,14 @@
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/MECCHACHAMELEON/MecchaChameleon_Fix_Repair_Steam_Generic.zip",
         "save_path": "",
         "steam_app_id": "4704690",
-        "steam_build_id": "23857067",
+        "steam_build_id": "23885802",
         "steam_depot_id": "4704691",
-        "manifest_id": "8182557576071905454",
-        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/MECCHACHAMELEON/MECCHA_CHAMELEON_23857067.zip",
+        "manifest_id": "3413556713253377448",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/MECCHACHAMELEON/MECCHA_CHAMELEON_23885802.zip",
         "live_build_id": "23885802",
         "live_manifest_id": "3413556713253377448",
         "live_depot_id": "4704691",
-        "update_status": "update_available",
+        "update_status": "up_to_date",
         "install_dir": "MECCHA CHAMELEON"
     },
     {
