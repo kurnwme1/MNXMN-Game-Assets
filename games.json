@@ -238,6 +238,24 @@
         "install_dir": "Grand Theft Auto V"
     },
     {
+        "id": "GTASanAndreasTheDefinitiveEdition",
+        "title": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
+        "_banner_url": "https://games.ajikurniawan.my.id/assets/GTASan AndreasTheDefinitiveEdition.jpg",
+        "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/header.jpg?t=1781138712",
+        "install_mode": "steam",
+        "steam_app_id": "1547000",
+        "steam_build_id": "16391096",
+        "steam_depot_id": "1547001",
+        "manifest_id": "6814041191190748315",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/GTASanAndreasTheDefinitiveEdition/Grand_Theft_Auto_San_Andreas_-_The_Definitive_Edition.zip",
+        "executable_main": "PlayGTASanAndreas.exe",
+        "executable_backup": "SanAndreas.exe",
+        "executable": "",
+        "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/GTASanAndreasTheDefinitiveEdition/GrandTheftAutoSanAndreas_TheDefinitiveEdition_patch.zip",
+        "save_path": "",
+        "install_dir": "GTA San Andreas - The Definitive Edition"
+    },
+    {
         "id": "LEGOBatmanLegacyoftheDarkKnight",
         "title": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight",
         "_banner_url": "https://games.ajikurniawan.my.id/assets/LEGOBatmanLegacyoftheDarkKnight.jpg",
