@@ -336,10 +336,10 @@
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
         "install_mode": "steam",
         "steam_app_id": "4704690",
-        "steam_build_id": "23885802",
+        "steam_build_id": "23896497",
         "steam_depot_id": "4704691",
-        "manifest_id": "3413556713253377448",
-        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/MECCHACHAMELEON/MECCHA_CHAMELEON_23885802.zip",
+        "manifest_id": "5119526807930064782",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/MECCHACHAMELEON/MECCHA_CHAMELEON_23896497.zip",
         "executable_main": "PenguinHotel.exe",
         "executable_backup": "",
         "executable": "",
@@ -349,7 +349,7 @@
         "live_build_id": "23896497",
         "live_manifest_id": "5119526807930064782",
         "live_depot_id": "4704691",
-        "update_status": "update_available"
+        "update_status": "up_to_date"
     },
     {
         "id": "OhDeer",
