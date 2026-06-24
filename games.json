@@ -477,7 +477,11 @@
         "executable": "",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/RedDeadRedemption2/RedDeadRedemption2_patch.zip",
         "save_path": "",
-        "install_dir": "Red Dead Redemption 2"
+        "install_dir": "Red Dead Redemption 2",
+        "live_build_id": "13773296",
+        "live_manifest_id": "2258488483491377476",
+        "live_depot_id": "1174182",
+        "update_status": "up_to_date"
     },
     {
         "id": "RestAreaSimulator",
