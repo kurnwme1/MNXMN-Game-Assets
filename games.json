@@ -81,7 +81,11 @@
         "executable": "",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/ELDENRING/ELDENRING_online_fix.zip",
         "save_path": "",
-        "install_dir": "ELDEN RING"
+        "install_dir": "ELDEN RING",
+        "live_build_id": "22984413",
+        "live_manifest_id": "8620480158702245750",
+        "live_depot_id": "1245621",
+        "update_status": "up_to_date"
     },
     {
         "id": "EscapetheBackrooms",
