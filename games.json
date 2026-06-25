@@ -336,10 +336,10 @@
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780980/header.jpg?t=1780159963",
         "install_mode": "steam",
         "steam_app_id": "2780980",
-        "steam_build_id": "23497098",
+        "steam_build_id": "23903438",
         "steam_depot_id": "2780981",
-        "manifest_id": "4688261666521128328",
-        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/LOCKDOWNProtocol/LOCKDOWN_Protocol.zip",
+        "manifest_id": "4000945935168615803",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/LOCKDOWNProtocol/LOCKDOWN_Protocol_23903438.zip",
         "executable_main": "LockdownProtocol.exe",
         "executable_backup": "",
         "executable": "",
@@ -349,7 +349,7 @@
         "live_build_id": "23903438",
         "live_manifest_id": "4000945935168615803",
         "live_depot_id": "2780981",
-        "update_status": "update_available"
+        "update_status": "up_to_date"
     },
     {
         "id": "MECCHACHAMELEON",
