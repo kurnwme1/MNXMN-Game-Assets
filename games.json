@@ -324,10 +324,10 @@
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/LOCKDOWNProtocol/LOCKDOWNProtocol_Fix_Repair_Steam_V4_Generic.zip",
         "save_path": "",
         "install_dir": "LOCKDOWN Protocol",
-        "live_build_id": "23497098",
-        "live_manifest_id": "4688261666521128328",
+        "live_build_id": "23903438",
+        "live_manifest_id": "4000945935168615803",
         "live_depot_id": "2780981",
-        "update_status": "up_to_date"
+        "update_status": "update_available"
     },
     {
         "id": "MECCHACHAMELEON",
@@ -412,10 +412,10 @@
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/PEAK/PEAK_Fix_Repair_Steam_V4_Generic.zip",
         "save_path": "",
         "install_dir": "PEAK",
-        "live_build_id": "23538565",
-        "live_manifest_id": "6036055717816575957",
+        "live_build_id": "23871350",
+        "live_manifest_id": "933519285287739916",
         "live_depot_id": "3527291",
-        "update_status": "up_to_date"
+        "update_status": "update_available"
     },
     {
         "id": "Phasmophobia",
