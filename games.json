@@ -167,13 +167,9 @@
         "executable_main": "forzahorizon6_loader.exe",
         "executable_backup": "forzahorizon6.exe",
         "executable": "",
-        "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/ForzaHorizon6/Forza_Horizon_6_online_fix.zip",
+        "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/ForzaHorizon6/ForzaHorizon6_Fix_Repair_Steam_Generic.1.zip",
         "save_path": "%LOCALAPPDATA%\\ForzaHorizon6",
-        "install_dir": "ForzaHorizon6",
-        "live_build_id": "23832027",
-        "live_manifest_id": "8528223014919165744",
-        "live_depot_id": "2483191",
-        "update_status": "up_to_date"
+        "install_dir": "ForzaHorizon6"
     },
     {
         "id": "GambleWithYourFriends",
