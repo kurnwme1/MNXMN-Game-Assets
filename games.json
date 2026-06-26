@@ -2,7 +2,7 @@
     {
         "id": "007FirstLight",
         "title": "007 First Light",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/007FirstLight.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/007FirstLight.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/dbe86ebd2edb4c77d113e9e2feefeb90189fabc9/header.jpg?t=1780990824",
         "install_mode": "steam",
         "steam_app_id": "3768760",
@@ -26,7 +26,7 @@
     {
         "id": "Biped2",
         "title": "Biped 2",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/biped2.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/biped2.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2560240/header.jpg?t=1779282640",
         "install_mode": "steam",
         "steam_app_id": "2560240",
@@ -50,7 +50,7 @@
     {
         "id": "BullyScholarshipEdition",
         "title": "Bully: Scholarship Edition",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/BullyScholarshipEdition.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/BullyScholarshipEdition.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12200/header.jpg?t=1741118085",
         "install_mode": "steam",
         "steam_app_id": "12200",
@@ -74,7 +74,7 @@
     {
         "id": "CabinCrewLifeSimulator",
         "title": "Cabin Crew Life Simulator",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/CabinCrewLifeSimulator.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/CabinCrewLifeSimulator.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2959610/header.jpg?t=1771898409",
         "install_mode": "steam",
         "steam_app_id": "2959610",
@@ -98,7 +98,7 @@
     {
         "id": "CookingSimulator2BetterTogether",
         "title": "Cooking Simulator 2: Better Together",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/cooksim2beto.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/cooksim2beto.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455360/0ccc3d3c7686c7ce96c209348dc1e2b437cfbdcd/header_alt_assets_1.jpg?t=1781704893",
         "install_mode": "steam",
         "steam_app_id": "2455360",
@@ -122,7 +122,7 @@
     {
         "id": "Cyberpunk2077",
         "title": "Cyberpunk 2077",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/Cyberpunk2077.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/Cyberpunk2077.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
         "install_mode": "steam",
         "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City \u2014 a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
@@ -148,7 +148,7 @@
     {
         "id": "ELDENRING",
         "title": "ELDEN RING",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/ELDENRING.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/ELDENRING.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1767883716",
         "install_mode": "steam",
         "steam_app_id": "1245620",
@@ -172,7 +172,7 @@
     {
         "id": "EscapetheBackrooms",
         "title": "Escape the Backrooms",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/EscapetheBackrooms.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/EscapetheBackrooms.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/f3dac53a5d3e68a4bb67786872b4693260049b26/header.jpg?t=1782122172",
         "install_mode": "steam",
         "steam_app_id": "1943950",
@@ -196,7 +196,7 @@
     {
         "id": "FastFoodSimulator",
         "title": "Fast Food Simulator",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/fastfoodsimulator.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/fastfoodsimulator.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/header.jpg?t=1762536253",
         "install_mode": "steam",
         "steam_app_id": "2916430",
@@ -220,7 +220,7 @@
     {
         "id": "ForzaHorizon6",
         "title": "Forza Horizon 6",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/ForzaHorizon6.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/ForzaHorizon6.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/744a52b2f79bb03825dea2c0fcfa29e330bb2f1e/header_alt_assets_1.jpg?t=1782238812",
         "install_mode": "steam",
         "description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet.",
@@ -246,7 +246,7 @@
     {
         "id": "GambleWithYourFriends",
         "title": "Gamble With Your Friends",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/gwyf.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/gwyf.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1782258835",
         "install_mode": "steam",
         "steam_app_id": "3892270",
@@ -270,7 +270,7 @@
     {
         "id": "GarfieldKart2",
         "title": "Garfield Kart 2 - All You Can Drift",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/GarfieldKart2.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/GarfieldKart2.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3239650/8a29e03a186f695f0c284908ef534e146810815b/header.jpg?t=1769613530",
         "install_mode": "steam",
         "steam_app_id": "3239650",
@@ -294,7 +294,7 @@
     {
         "id": "GTAIV",
         "title": "Grand Theft Auto IV: The Complete Edition",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/GTAIV.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/GTAIV.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
         "install_mode": "steam",
         "steam_app_id": "12210",
@@ -318,7 +318,7 @@
     {
         "id": "GTAVLegacy",
         "title": "Grand Theft Auto V Legacy",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/GrandTheftAutoVLegacy.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/GrandTheftAutoVLegacy.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725",
         "install_mode": "steam",
         "steam_app_id": "271590",
@@ -342,7 +342,7 @@
     {
         "id": "GTASanAndreasTheDefinitiveEdition",
         "title": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/GTASan AndreasTheDefinitiveEdition.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/GTASan AndreasTheDefinitiveEdition.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/header.jpg?t=1781138712",
         "install_mode": "steam",
         "steam_app_id": "1547000",
@@ -366,7 +366,7 @@
     {
         "id": "InternetCafeSimulator2",
         "title": "Internet Cafe Simulator 2",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/InternetCafeSimulator2.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/InternetCafeSimulator2.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1563180/header.jpg?t=1782312568",
         "install_mode": "steam",
         "description": "Internet Cafe Simulator 2 is an extremely comprehensive and detailed internet cafe business simulation game.",
@@ -392,7 +392,7 @@
     {
         "id": "LEGOBatmanLegacyoftheDarkKnight",
         "title": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/LEGOBatmanLegacyoftheDarkKnight.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/LEGOBatmanLegacyoftheDarkKnight.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/a07a9a6c0c9c1225f5b260b4f29fe40e6f099f6b/header.jpg?t=1780591479",
         "install_mode": "steam",
         "steam_app_id": "2215200",
@@ -416,7 +416,7 @@
     {
         "id": "LOCKDOWNProtocol",
         "title": "LOCKDOWN Protocol",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/LockdownProtocol.png",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/LockdownProtocol.png",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780980/header.jpg?t=1780159963",
         "install_mode": "steam",
         "steam_app_id": "2780980",
@@ -440,7 +440,7 @@
     {
         "id": "MECCHACHAMELEON",
         "title": "MECCHA CHAMELEON",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/mecchachameleon.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/mecchachameleon.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
         "install_mode": "steam",
         "steam_app_id": "4704690",
@@ -463,7 +463,7 @@
     {
         "id": "OhDeer",
         "title": "Oh Deer",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/ohdeer.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/ohdeer.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2708450/c110a0154e044bed656611b8e6fe8aa888010abe/header.jpg?t=1742266552",
         "install_mode": "steam",
         "steam_app_id": "2708450",
@@ -487,7 +487,7 @@
     {
         "id": "Outbound",
         "title": "Outbound",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/outbound.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/outbound.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2681030/32841b7b6664944531845b5ece24da2b23dfbca6/header_alt_assets_2.jpg?t=1782205065",
         "install_mode": "steam",
         "steam_app_id": "2681030",
@@ -511,7 +511,7 @@
     {
         "id": "Paralives",
         "title": "Paralives",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/Paralives.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/Paralives.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/277ab7a2ad1bbce0f4837bb37a3c86d109bd5258/header.jpg?t=1782408391",
         "install_mode": "steam",
         "description": "Paralives is a life simulation game about building homes, lives and bonds. Through both hardship and success, where will your story take you?",
@@ -537,7 +537,7 @@
     {
         "id": "PEAK",
         "title": "PEAK",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/peak.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/peak.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133",
         "install_mode": "steam",
         "steam_app_id": "3527290",
@@ -561,7 +561,7 @@
     {
         "id": "Phasmophobia",
         "title": "Phasmophobia",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/phasmophobia.webp",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/phasmophobia.webp",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1780397989",
         "install_mode": "steam",
         "steam_app_id": "739630",
@@ -585,7 +585,7 @@
     {
         "id": "PICOPARK",
         "title": "PICO PARK",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/picopark.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/picopark.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/header.jpg?t=1740033204",
         "install_mode": "steam",
         "steam_app_id": "1509960",
@@ -609,7 +609,7 @@
     {
         "id": "PICOPARK2",
         "title": "PICO PARK 2",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/picopark2.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/picopark2.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644470/header.jpg?t=1760143639",
         "install_mode": "steam",
         "steam_app_id": "2644470",
@@ -633,7 +633,7 @@
     {
         "id": "PummelParty",
         "title": "Pummel Party",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/pummelparty.png",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/pummelparty.png",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/880940/header.jpg?t=1725311353",
         "install_mode": "steam",
         "steam_app_id": "880940",
@@ -657,7 +657,7 @@
     {
         "id": "REPO",
         "title": "R.E.P.O.",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/repo.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/repo.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
         "install_mode": "steam",
         "steam_app_id": "3241660",
@@ -681,7 +681,7 @@
     {
         "id": "Raft",
         "title": "Raft",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/raft.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/raft.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
         "install_mode": "steam",
         "steam_app_id": "648800",
@@ -705,7 +705,7 @@
     {
         "id": "RedDeadRedemption2",
         "title": "Red Dead Redemption 2",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/RedDeadRedemption2.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/RedDeadRedemption2.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
         "install_mode": "steam",
         "steam_app_id": "1174180",
@@ -729,7 +729,7 @@
     {
         "id": "RestAreaSimulator",
         "title": "Rest Area Simulator",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/RestAreaSimulator.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/RestAreaSimulator.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3732960/cd47f627122d6110739e99ca93b3713e426d3b3c/header.jpg?t=1780661115",
         "install_mode": "steam",
         "steam_app_id": "3732960",
@@ -753,7 +753,7 @@
     {
         "id": "RVThereYet?",
         "title": "RV There Yet?",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/RVThereYet.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/RVThereYet.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/cae24b4ed7f4531be51f0d63f785b7d253f92dc3/header.jpg?t=1778071815",
         "install_mode": "steam",
         "steam_app_id": "3949040",
@@ -777,7 +777,7 @@
     {
         "id": "Subnautica2",
         "title": "Subnautica 2",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/subnautica2.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/subnautica2.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg?t=1780372044",
         "install_mode": "steam",
         "steam_app_id": "1962700",
@@ -801,7 +801,7 @@
     {
         "id": "SummersHeartbeat",
         "title": "Summer\u2019s Heartbeat",
-        "_banner_url": "https://games.ajikurniawan.my.id/assets/SummersHeartbeat.jpg",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/SummersHeartbeat.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179020/de1d6629a04c6e90f609b1d9fad272169182444c/header.jpg?t=1778633052",
         "install_mode": "steam",
         "description": "Village romance hotter than summer's heat! Drowning in debt, you escape to the countryside only to meet the loan shark noona, your first love, and the tsundere village princess! This summer, your heart\u2019s melting faster than ice cream. Who\u2019s going to set your world on fire?",
