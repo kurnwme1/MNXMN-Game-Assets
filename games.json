@@ -771,5 +771,27 @@
         "description": "Subnautica 2 is an underwater survival adventure set on an all-new alien world, developed by Unknown Worlds. Play alone or with friends in 4-player co-op. Adapt to survive by building custom bases and crafting tools. Explore the unknown to uncover the mysteries hidden within the depths.",
         "requirements": "OS: Windows 10/11\nProcessor: Intel Core i5-8400 / AMD Ryzen 5 2600\nMemory: 12 GB RAM\nGraphics: GeForce GTX 1660 6GB / RX 5500 XT 6GB\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 50 GB available space\nAdditional Notes: Requires a 64-bit processor and operating system",
         "size": "50 GB"
+    },
+    {
+        "id": "SummersHeartbeat",
+        "title": "Summer\u2019s Heartbeat",
+        "_banner_url": "https://games.ajikurniawan.my.id/assets/SummersHeartbeat.jpg",
+        "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179020/de1d6629a04c6e90f609b1d9fad272169182444c/header.jpg?t=1778633052",
+        "install_mode": "steam",
+        "description": "Village romance hotter than summer's heat! Drowning in debt, you escape to the countryside only to meet the loan shark noona, your first love, and the tsundere village princess! This summer, your heart\u2019s melting faster than ice cream. Who\u2019s going to set your world on fire?",
+        "size": "40 GB",
+        "requirements": "OS: Windows 10\nProcessor: Intel Core i3\nMemory: 4 GB RAM\nGraphics: Discrete graphics card\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 40 GB available space",
+        "steam_app_id": "4179020",
+        "steam_build_id": "22677587",
+        "steam_depot_id": "4179021",
+        "manifest_id": "588878652345365357",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/SummersHeartbeat/Summer.s_Heartbeat_22677587.zip",
+        "executable_main": "SHB.exe",
+        "executable_backup": "",
+        "patch_url": "",
+        "save_path": "",
+        "install_dir": "Summer\u2019s Heartbeat",
+        "version": "22677587",
+        "updatetoggle": ""
     }
 ]
