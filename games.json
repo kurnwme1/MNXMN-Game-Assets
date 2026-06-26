@@ -364,6 +364,28 @@
         "size": "19 GB"
     },
     {
+        "id": "InternetCafeSimulator2",
+        "title": "Internet Cafe Simulator 2",
+        "_banner_url": "https://games.ajikurniawan.my.id/assets/InternetCafeSimulator2.jpg",
+        "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1563180/header.jpg?t=1782312568",
+        "install_mode": "steam",
+        "description": "Internet Cafe Simulator 2 is an extremely comprehensive and detailed internet cafe business simulation game.",
+        "size": "7 GB",
+        "requirements": "OS *: Windows 7\nProcessor: 2 GHz Dual Core CPU\nMemory: 4 GB RAM\nGraphics: Intel HD Graphics 4000 or better\nStorage: 7 GB available space",
+        "steam_app_id": "1563180",
+        "steam_build_id": "8516877",
+        "steam_depot_id": "1563181",
+        "manifest_id": "3099060878986052939",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/InternetCafeSimulator2/Internet_Cafe_Simulator_2_8516877.zip",
+        "executable_main": "Internet Cafe Simulator 2.exe",
+        "executable_backup": "",
+        "patch_url": "",
+        "save_path": "",
+        "install_dir": "Internet Cafe Simulator 2",
+        "version": "8516877",
+        "updatetoggle": ""
+    },
+    {
         "id": "LEGOBatmanLegacyoftheDarkKnight",
         "title": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight",
         "_banner_url": "https://games.ajikurniawan.my.id/assets/LEGOBatmanLegacyoftheDarkKnight.jpg",
