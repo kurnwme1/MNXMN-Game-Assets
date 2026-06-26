@@ -111,10 +111,10 @@
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/CookSim2_BT/CookingSimulator2BetterTogether_Fix_Repair_Steam_Generic.zip",
         "save_path": "",
         "install_dir": "Cooking Simulator 2",
-        "live_build_id": "23780008",
-        "live_manifest_id": "8046506230613016205",
+        "live_build_id": "23915158",
+        "live_manifest_id": "6098046653982240287",
         "live_depot_id": "2455361",
-        "update_status": "up_to_date",
+        "update_status": "update_available",
         "description": "Cooking Simulator is back \u2013 bigger, better, and with multiplayer! Create your own recipes and take advantage of new and improved controls to become the best restaurant cook in the city! Or just have fun and enjoy cooking at your own pace. You\u2019re the chef here!",
         "requirements": "OS: Windows 10 x64\nProcessor: Intel i5 (i5-10600K) or AMD (Ryzen5 5600X)\nMemory: 8 GB RAM\nGraphics: Intel Arc A750 / Nvidia RTX 2060 6GB / AMD Radeon 5600XT/RX6600\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 20 GB available space\nSound Card: DirectX compatible sound card\nAdditional Notes: Windows 7 is not supported",
         "size": "20 GB"
@@ -474,7 +474,11 @@
         "save_path": "",
         "install_dir": "Paralives",
         "version": "23825075",
-        "updatetoggle": ""
+        "updatetoggle": "",
+        "live_build_id": "23825075",
+        "live_manifest_id": "645973500839652077",
+        "live_depot_id": "1118522",
+        "update_status": "up_to_date"
     },
     {
         "id": "PEAK",
