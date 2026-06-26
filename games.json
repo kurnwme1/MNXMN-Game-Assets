@@ -237,7 +237,11 @@
         "save_path": "%LOCALAPPDATA%\\ForzaHorizon6",
         "install_dir": "ForzaHorizon6",
         "version": "",
-        "updatetoggle": ""
+        "updatetoggle": "",
+        "live_build_id": "23832027",
+        "live_manifest_id": "8528223014919165744",
+        "live_depot_id": "2483191",
+        "update_status": "update_available"
     },
     {
         "id": "GambleWithYourFriends",
