@@ -115,7 +115,11 @@
         "save_path": "",
         "install_dir": "Car Dealership Simulator 2",
         "version": "23921794",
-        "updatetoggle": ""
+        "updatetoggle": "",
+        "live_build_id": "23921794",
+        "live_manifest_id": "6732519671173135267",
+        "live_depot_id": "3616551",
+        "update_status": "up_to_date"
     },
     {
         "id": "CookingSimulator2BetterTogether",
@@ -475,10 +479,10 @@
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/MECCHACHAMELEON/MecchaChameleon_Fix_Repair_Steam_Generic.zip",
         "save_path": "",
         "install_dir": "MECCHA CHAMELEON",
-        "live_build_id": "23896497",
-        "live_manifest_id": "5119526807930064782",
+        "live_build_id": "23945194",
+        "live_manifest_id": "5191536719281547315",
         "live_depot_id": "4704691",
-        "update_status": "up_to_date",
+        "update_status": "update_available",
         "description": "Paint yourself to blend in! &quot;Meccha Chameleon&quot; is a new-sensation hide-and-seek game where you paint your white body to mimic the stage. Spot, pose, and &quot;artistic skill&quot; are keys to survival. Deceive Seekers with techniques that put chameleons to shame! Supports public matches and streaming.",
         "requirements": "OS: Windows 10 64-bit.\nProcessor: Intel Core i5\nGraphics: DirectX 11 or 12 compatible graphics card"
     },
