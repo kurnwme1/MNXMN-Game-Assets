@@ -96,6 +96,28 @@
         "size": "4 GB"
     },
     {
+        "id": "CarDealershipSimulator2",
+        "title": "Car Dealership Simulator 2",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/CarDealershipSimulator2.jpg",
+        "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3616550/98379314e9a328675014399a1de9e897661472bd/header.jpg?t=1782430087",
+        "install_mode": "steam",
+        "description": "Take charge of the car trade with Car Dealership Simulator 2! Buy, modify, and grow your dealership with strategic sales. Every opportunity will take you closer to the top of the automotive market!",
+        "size": "8 GB",
+        "requirements": "Requires a 64-bit processor and operating system\nOS: Windows(64-bit)\nProcessor: \u0130ntel Core i5 3.0 GHz\nMemory: 8 GB RAM\nGraphics: NVidia GeForce GTX 1060 6GB\nDirectX: Version 11\nStorage: 8 GB available space",
+        "steam_app_id": "3616550",
+        "steam_build_id": "23921794",
+        "steam_depot_id": "3616551",
+        "manifest_id": "6732519671173135267",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/CarDealershipSimulator2/Car_Dealership_Simulator_2_23921794.zip",
+        "executable_main": "Car Dealership Simulator 2.exe",
+        "executable_backup": "",
+        "patch_url": "",
+        "save_path": "",
+        "install_dir": "Car Dealership Simulator 2",
+        "version": "23921794",
+        "updatetoggle": ""
+    },
+    {
         "id": "CookingSimulator2BetterTogether",
         "title": "Cooking Simulator 2: Better Together",
         "_banner_url": "https://games.mnxmnreborn.my.id/assets/cooksim2beto.jpg",
