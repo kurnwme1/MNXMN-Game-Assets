@@ -659,9 +659,12 @@
     {
         "id": "PummelParty",
         "title": "Pummel Party",
-        "_banner_url": "https://games.mnxmnreborn.my.id/assets/pummelparty.png",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/PummelParty.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/880940/header.jpg?t=1725311353",
         "install_mode": "steam",
+        "description": "Pummel Party is a 4-8 player online and local-multiplayer party game. Pummel friends or AI using a wide array of absurd items in the board mode and compete to destroy friendships in the unique collection of minigames.",
+        "size": "1 GB",
+        "requirements": "OS *: Windows 7\nProcessor: Dual Core 2.4Ghz\nMemory: 3 GB RAM\nGraphics: GeForce 8800 GT / AMD HD 6850 / Intel HD Graphics 4400 or above\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 1 GB available space",
         "steam_app_id": "880940",
         "steam_build_id": "20246854",
         "steam_depot_id": "880941",
@@ -670,15 +673,10 @@
         "executable_main": "PummelParty.exe",
         "executable_backup": "",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/PummelParty/Pummel_Party_patch.zip",
-        "save_path": "",
+        "save_path": "%localappdata%low\\Rebuilt Games\\Pummel Party",
         "install_dir": "Pummel Party",
-        "live_build_id": "20246854",
-        "live_manifest_id": "8651477077702693582",
-        "live_depot_id": "880941",
-        "update_status": "up_to_date",
-        "description": "Pummel Party is a 4-8 player online and local-multiplayer party game. Pummel friends or AI using a wide array of absurd items in the board mode and compete to destroy friendships in the unique collection of minigames.",
-        "requirements": "OS *: Windows 7\nProcessor: Dual Core 2.4Ghz\nMemory: 3 GB RAM\nGraphics: GeForce 8800 GT / AMD HD 6850 / Intel HD Graphics 4400 or above\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 1 GB available space",
-        "size": "1 GB"
+        "version": "",
+        "updatetoggle": ""
     },
     {
         "id": "REPO",
