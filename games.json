@@ -43,7 +43,11 @@
         "save_path": "",
         "install_dir": "Avatar The Last Airbender - Quest for Balance",
         "version": "12455413",
-        "updatetoggle": ""
+        "updatetoggle": "",
+        "live_build_id": "12455413",
+        "live_manifest_id": "773137660092715490",
+        "live_depot_id": "1620031",
+        "update_status": "up_to_date"
     },
     {
         "id": "Biped2",
@@ -285,7 +289,11 @@
         "save_path": "",
         "install_dir": "Five Hearts Under One Roof",
         "version": "21315247",
-        "updatetoggle": ""
+        "updatetoggle": "",
+        "live_build_id": "21315247",
+        "live_manifest_id": "7793127310082659738",
+        "live_depot_id": "3021101",
+        "update_status": "up_to_date"
     },
     {
         "id": "FiveHeartsUnderOneRoofseason2",
