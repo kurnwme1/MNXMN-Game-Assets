@@ -932,7 +932,7 @@
     },
     {
         "id": "WatchDogs2",
-        "title": "Watch_Dogs\u00ae 2",
+        "title": "Watch Dogs\u00ae 2",
         "_banner_url": "https://games.mnxmnreborn.my.id/assets/WatchDogs2.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg?t=1751986887",
         "install_mode": "steam",
@@ -950,11 +950,7 @@
         "save_path": "",
         "install_dir": "Watch_Dogs2",
         "version": "11638094",
-        "updatetoggle": "",
-        "live_build_id": "11638094",
-        "live_manifest_id": "997218509313186758",
-        "live_depot_id": "447042",
-        "update_status": "up_to_date"
+        "updatetoggle": ""
     },
     {
         "id": "WatchDogs",
