@@ -37,17 +37,13 @@
         "steam_depot_id": "1620031",
         "manifest_id": "773137660092715490",
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/AvatarTheLastAirbenderQuestforBalance/AvatarTheLastAirbenderQuestforBalance_lua.zip",
-        "executable_main": "Ala-Win64-ShippingDRM.exe",
+        "executable_main": "Ala/Binaries/Win64/Ala-Win64-ShippingDRM.exe",
         "executable_backup": "",
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/AvatarTheLastAirbenderQuestforBalance/AvatarTheLastAirbenderQuestforBalance_patch.zip",
         "save_path": "",
         "install_dir": "Avatar The Last Airbender - Quest for Balance",
         "version": "12455413",
-        "updatetoggle": "",
-        "live_build_id": "12455413",
-        "live_manifest_id": "773137660092715490",
-        "live_depot_id": "1620031",
-        "update_status": "up_to_date"
+        "updatetoggle": ""
     },
     {
         "id": "Biped2",
