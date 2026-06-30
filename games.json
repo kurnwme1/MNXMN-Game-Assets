@@ -833,6 +833,28 @@
         "size": "150 GB"
     },
     {
+        "id": "ResidentEvilRequiem",
+        "title": "Resident Evil Requiem",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/ResidentEvilRequiem.jpg",
+        "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+        "install_mode": "steam",
+        "description": "Requiem for the dead. Nightmare for the living. Prepare to escape death in a heart-stopping experience that will chill you to your core.",
+        "size": "73 GB",
+        "requirements": "Requires a 64-bit processor and operating system\nOS: Windows 11 (64bit required)\nProcessor: Intel corei5-8500 / AMD Ryzen 5 3500\nMemory: 16 GB RAM\nGraphics: GeForce GTX 1660 6GB /\u00a0 Radeon RX 5500 XT 8GB\nDirectX: Version 12\nAdditional Notes: Supports 1080p gameplay (using upscaling, native resolution of 640p)/30fps. Note: Frame rate may drop when the processing load is high. An SSD is required.",
+        "steam_app_id": "3764200",
+        "steam_build_id": "23634047",
+        "steam_depot_id": "3764201",
+        "manifest_id": "2990234554016452841",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/ResidentEvilRequiem/Resident_Evil_Requiem_23634047.zip",
+        "executable_main": "re9.exe",
+        "executable_backup": "",
+        "patch_url": "",
+        "save_path": "",
+        "install_dir": "RESIDENT EVIL requiem BIOHAZARD requiem",
+        "version": "23634047",
+        "updatetoggle": ""
+    },
+    {
         "id": "RestAreaSimulator",
         "title": "Rest Area Simulator",
         "_banner_url": "https://games.mnxmnreborn.my.id/assets/RestAreaSimulator.jpg",
