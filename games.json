@@ -275,6 +275,7 @@
         "_banner_url": "https://games.mnxmnreborn.my.id/assets/FiveHeartsUnderOneRoof.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021100/header.jpg?t=1778486226",
         "install_mode": "steam",
+        "is_adult": true,
         "description": "Yuman\u2019s, the player, once solitary home and routine are now invaded by five beautiful women! Each has her unique charm \u2013 the 'childhood friend of 20 years,' the 'first love and former idol,' the 'demanding boss,' the 'bold younger girl,' and the 'shy recluse.' Who will you choose?",
         "size": "27.37 GB",
         "requirements": "OS: Windows 10\nProcessor: Intel Core i3\nMemory: 4 GB RAM\nGraphics: Discrete graphics card\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 15 GB available space",
@@ -289,11 +290,7 @@
         "save_path": "",
         "install_dir": "Five Hearts Under One Roof",
         "version": "21315247",
-        "updatetoggle": "",
-        "live_build_id": "21315247",
-        "live_manifest_id": "7793127310082659738",
-        "live_depot_id": "3021101",
-        "update_status": "up_to_date"
+        "updatetoggle": ""
     },
     {
         "id": "FiveHeartsUnderOneRoofseason2",
@@ -301,6 +298,7 @@
         "_banner_url": "https://games.mnxmnreborn.my.id/assets/FiveHeartsUnderOneRoofseason2.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3731020/5ccf1a9cbd09cff29e03856469b346a74278f376/header.jpg?t=1782357203",
         "install_mode": "steam",
+        "is_adult": true,
         "description": "Boarding house owner Yuman is back! Alongside Mal-sook, Gran, and Min-jung, a wealthy heiress, a girl burdened by childhood scars, and a sweet nurse move in. In this house of old memories and new emotions, who will you fall in love with?",
         "size": "23.43 GB",
         "requirements": "OS: Windows 10\nProcessor: Intel Core i3\nMemory: 4 GB RAM\nGraphics: Discrete graphics card\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 23.43 GB available space",
@@ -315,11 +313,7 @@
         "save_path": "",
         "install_dir": "Five Hearts Under One Roof season2",
         "version": "23853773",
-        "updatetoggle": "",
-        "live_build_id": "23853773",
-        "live_manifest_id": "4634443937917573470",
-        "live_depot_id": "3731021",
-        "update_status": "up_to_date"
+        "updatetoggle": ""
     },
     {
         "id": "ForzaHorizon6",
@@ -962,6 +956,7 @@
         "_banner_url": "https://games.mnxmnreborn.my.id/assets/SummersHeartbeat.jpg",
         "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179020/de1d6629a04c6e90f609b1d9fad272169182444c/header.jpg?t=1778633052",
         "install_mode": "steam",
+        "is_adult": true,
         "description": "Village romance hotter than summer's heat! Drowning in debt, you escape to the countryside only to meet the loan shark noona, your first love, and the tsundere village princess! This summer, your heart\u2019s melting faster than ice cream. Who\u2019s going to set your world on fire?",
         "size": "40 GB",
         "requirements": "OS: Windows 10\nProcessor: Intel Core i3\nMemory: 4 GB RAM\nGraphics: Discrete graphics card\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 40 GB available space",
@@ -976,11 +971,7 @@
         "save_path": "",
         "install_dir": "Summer\u2019s Heartbeat",
         "version": "22677587",
-        "updatetoggle": "",
-        "live_build_id": "22677587",
-        "live_manifest_id": "588878652345365357",
-        "live_depot_id": "4179021",
-        "update_status": "up_to_date"
+        "updatetoggle": ""
     },
     {
         "id": "WatchDogs2",
