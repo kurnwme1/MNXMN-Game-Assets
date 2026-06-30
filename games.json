@@ -65,10 +65,10 @@
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/Biped2/Biped.2_Fix_Repair_Steam_Generic.zip",
         "save_path": "",
         "install_dir": "Biped 2",
-        "live_build_id": "23144138",
-        "live_manifest_id": "6270962710389826897",
+        "live_build_id": "23981701",
+        "live_manifest_id": "7410206035705105824",
         "live_depot_id": "2560241",
-        "update_status": "up_to_date",
+        "update_status": "update_available",
         "description": "Biped 2 is a coop action adventure game with a strong focus on moment-to-moment collaboration alone or between 2 or 4 players.",
         "requirements": "OS: Windows 10/11\nProcessor: i3 Sandy Bridge Dual Core or Equivalent\nMemory: 8 GB RAM\nGraphics: NVIDIA GeForce GTX 960\nStorage: 6 GB available space",
         "size": "6 GB"
@@ -163,8 +163,8 @@
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/CookSim2_BT/CookingSimulator2BetterTogether_Fix_Repair_Steam_Generic.zip",
         "save_path": "",
         "install_dir": "Cooking Simulator 2",
-        "live_build_id": "23915158",
-        "live_manifest_id": "6098046653982240287",
+        "live_build_id": "23965852",
+        "live_manifest_id": "1553042511223274861",
         "live_depot_id": "2455361",
         "update_status": "update_available",
         "description": "Cooking Simulator is back \u2013 bigger, better, and with multiplayer! Create your own recipes and take advantage of new and improved controls to become the best restaurant cook in the city! Or just have fun and enjoy cooking at your own pace. You\u2019re the chef here!",
@@ -754,7 +754,11 @@
         "save_path": "",
         "install_dir": "PRAGMATA",
         "version": "23443442",
-        "updatetoggle": ""
+        "updatetoggle": "",
+        "live_build_id": "23443442",
+        "live_manifest_id": "6330832861176696160",
+        "live_depot_id": "3357651",
+        "update_status": "up_to_date"
     },
     {
         "id": "PummelParty",
