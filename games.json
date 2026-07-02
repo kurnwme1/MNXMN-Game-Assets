@@ -559,8 +559,8 @@
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/MECCHACHAMELEON/MecchaChameleon_Fix_Repair_Steam_Generic.zip",
         "save_path": "",
         "install_dir": "MECCHA CHAMELEON",
-        "live_build_id": "23968060",
-        "live_manifest_id": "1098826796124541340",
+        "live_build_id": "24023928",
+        "live_manifest_id": "4572100043089020441",
         "live_depot_id": "4704691",
         "update_status": "update_available",
         "description": "Paint yourself to blend in! &quot;Meccha Chameleon&quot; is a new-sensation hide-and-seek game where you paint your white body to mimic the stage. Spot, pose, and &quot;artistic skill&quot; are keys to survival. Deceive Seekers with techniques that put chameleons to shame! Supports public matches and streaming.",
@@ -606,10 +606,10 @@
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/Outbound/Outbound_Fix_Repair_Steam_Generic.zip",
         "save_path": "%USERPROFILE%\\AppData\\LocalLow\\Square Glade Games\\Outbound",
         "install_dir": "Outbound",
-        "live_build_id": "23857020",
-        "live_manifest_id": "528078715930099396",
+        "live_build_id": "24017093",
+        "live_manifest_id": "2755704904326554733",
         "live_depot_id": "2681031",
-        "update_status": "up_to_date",
+        "update_status": "update_available",
         "description": "Explore a colorful world and build your own cozy home on wheels. Craft workstations, and source energy from the sun, wind, or water. Upgrade and customize your vehicle, grow crops, and live sustainably off-grid with up to 4 players.",
         "requirements": "OS: Windows 10-64 bit\nProcessor: Intel Core i3 10100F | Ryzen 3 3100 or equivalent\nMemory: 4 GB RAM\nGraphics: NVIDIA GTX 1050 | AMD RX 570 or equivalent\nDirectX: Version 11\nStorage: 16 GB available space\nSound Card: DirectX Compatible Sound Card",
         "size": "16 GB"
@@ -635,10 +635,10 @@
         "install_dir": "Paralives",
         "version": "23825075",
         "updatetoggle": "",
-        "live_build_id": "23825075",
-        "live_manifest_id": "645973500839652077",
+        "live_build_id": "24019783",
+        "live_manifest_id": "3246534285947004616",
         "live_depot_id": "1118522",
-        "update_status": "up_to_date"
+        "update_status": "update_available"
     },
     {
         "id": "PEAK",
