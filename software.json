@@ -14,6 +14,10 @@
         "steam_build_id": "23967692",
         "steam_depot_id": "431961",
         "manifest_id": "3687007859740550172",
-        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/WallpaperEngine/WallpaperEngine.zip"
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/WallpaperEngine/WallpaperEngine.zip",
+        "live_build_id": "23967692",
+        "live_manifest_id": "3687007859740550172",
+        "live_depot_id": "431961",
+        "update_status": "up_to_date"
     }
 ]
