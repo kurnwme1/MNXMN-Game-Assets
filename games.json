@@ -361,13 +361,13 @@
         "size": "167 GB",
         "requirements": "Requires a 64-bit processor and operating system\nOS: Windows 10 22H2 (version 19045) or higher\nProcessor: Intel i5-8400 OR AMD Ryzen 5 1600\nMemory: 16 GB RAM\nGraphics: Nvidia GTX 1650 OR AMD RX 6500 XT OR Intel Arc A380\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 167 GB available space\nAdditional Notes: SSD Required",
         "steam_app_id": "2483190",
-        "steam_build_id": "23832027",
+        "steam_build_id": "23653800",
         "steam_depot_id": "2483191",
-        "manifest_id": "8528223014919165744",
-        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/ForzaHorizon6/Forza_Horizon_6_23832027.zip",
+        "manifest_id": "2737887849937269827",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/ForzaHorizon6/Forza_Horizon_6_steam.zip",
         "executable_main": "forzahorizon6_loader.exe",
         "executable_backup": "forzahorizon6.exe",
-        "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/ForzaHorizon6/ForzaHorizon6_Fix_Repair_Steam_V2_Generic.zip",
+        "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/ForzaHorizon6/Forza_Horizon_6_Patch.zip",
         "save_path": "%LOCALAPPDATA%\\ForzaHorizon6",
         "install_dir": "ForzaHorizon6",
         "version": "",
@@ -375,7 +375,7 @@
         "live_build_id": "23832027",
         "live_manifest_id": "8528223014919165744",
         "live_depot_id": "2483191",
-        "update_status": "up_to_date"
+        "update_status": "update_available"
     },
     {
         "id": "GambleWithYourFriends",
