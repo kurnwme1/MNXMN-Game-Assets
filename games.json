@@ -113,10 +113,10 @@
         "patch_url": "",
         "save_path": "",
         "install_dir": "CabinCrewLifeSimulator",
-        "live_build_id": "23844429",
-        "live_manifest_id": "4977131710855955513",
+        "live_build_id": "24035311",
+        "live_manifest_id": "4279851618197794473",
         "live_depot_id": "2959612",
-        "update_status": "up_to_date",
+        "update_status": "update_available",
         "description": "Have you ever wondered what flight attendants do on each flight? Let's find out with Cabin Crew Life Simulator, the pioneering flight attendant simulator with variety of aircraft, airports, passenger services, handling emergency situations, in-flight business, teamwork and much more.",
         "requirements": "Requires a 64-bit processor and operating system\nOS: Windows 10/11 (64-bit versions)\nProcessor: Intel Core i5 4590\nMemory: 8 GB RAM\nGraphics: Nvidia GeForce GTX 1050\nStorage: 4 GB available space",
         "size": "4 GB"
@@ -344,7 +344,11 @@
         "save_path": "%LOCALAPPDATA%\\ForzaHorizon6",
         "install_dir": "ForzaHorizon6",
         "version": "",
-        "updatetoggle": ""
+        "updatetoggle": "",
+        "live_build_id": "23832027",
+        "live_manifest_id": "8528223014919165744",
+        "live_depot_id": "2483191",
+        "update_status": "update_available"
     },
     {
         "id": "GambleWithYourFriends",
@@ -556,8 +560,8 @@
         "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/MECCHACHAMELEON/MecchaChameleon_Fix_Repair_Steam_Generic.zip",
         "save_path": "",
         "install_dir": "MECCHA CHAMELEON",
-        "live_build_id": "24023928",
-        "live_manifest_id": "4572100043089020441",
+        "live_build_id": "24051548",
+        "live_manifest_id": "1761584281891838945",
         "live_depot_id": "4704691",
         "update_status": "update_available",
         "description": "Paint yourself to blend in! &quot;Meccha Chameleon&quot; is a new-sensation hide-and-seek game where you paint your white body to mimic the stage. Spot, pose, and &quot;artistic skill&quot; are keys to survival. Deceive Seekers with techniques that put chameleons to shame! Supports public matches and streaming.",
