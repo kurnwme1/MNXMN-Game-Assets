@@ -628,7 +628,7 @@
         "install_mode": "steam",
         "is_adult": false,
         "description": "Paint yourself to blend in! &quot;Meccha Chameleon&quot; is a new-sensation hide-and-seek game where you paint your white body to mimic the stage. Spot, pose, and &quot;artistic skill&quot; are keys to survival. Deceive Seekers with techniques that put chameleons to shame! Supports public matches and streaming.",
-        "size": "",
+        "size": "3 GB",
         "requirements": "OS: Windows 10 64-bit.\nProcessor: Intel Core i5\nGraphics: DirectX 11 or 12 compatible graphics card",
         "steam_app_id": "4704690",
         "steam_build_id": "24051548",
@@ -642,9 +642,9 @@
         "install_dir": "MECCHA CHAMELEON",
         "version": "24051548",
         "updatetoggle": "",
-        "live_build_id": "24051548",
-        "live_manifest_id": "1761584281891838945",
-        "live_depot_id": "4704691",
+        "live_build_id": null,
+        "live_manifest_id": null,
+        "live_depot_id": null,
         "update_status": "up_to_date"
     },
     {
