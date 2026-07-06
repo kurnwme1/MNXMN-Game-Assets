@@ -642,9 +642,9 @@
         "install_dir": "MECCHA CHAMELEON",
         "version": "24051548",
         "updatetoggle": "",
-        "live_build_id": null,
-        "live_manifest_id": null,
-        "live_depot_id": null,
+        "live_build_id": "24051548",
+        "live_manifest_id": "1761584281891838945",
+        "live_depot_id": "4704691",
         "update_status": "up_to_date"
     },
     {
