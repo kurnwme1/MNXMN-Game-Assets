@@ -1128,10 +1128,10 @@
         "install_dir": "",
         "version": "",
         "updatetoggle": "",
-        "live_build_id": null,
-        "live_manifest_id": null,
-        "live_depot_id": null,
-        "update_status": "up_to_date"
+        "live_build_id": "",
+        "live_manifest_id": "",
+        "live_depot_id": "",
+        "update_status": "error"
     },
     {
         "id": "TrackDayR",
