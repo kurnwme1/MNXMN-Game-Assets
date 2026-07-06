@@ -1123,15 +1123,15 @@
         "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/TheLegendofKorra/TheLegendofKorra_Base.zip",
         "executable_main": "LoK.exe",
         "executable_backup": "",
-        "patch_url": "",
+        "patch_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/TheLegendofKorra/TheLegendofKorra_Patch.zip",
         "save_path": "",
         "install_dir": "",
         "version": "",
         "updatetoggle": "",
-        "live_build_id": "",
-        "live_manifest_id": "",
-        "live_depot_id": "",
-        "update_status": "error"
+        "live_build_id": null,
+        "live_manifest_id": null,
+        "live_depot_id": null,
+        "update_status": "up_to_date"
     },
     {
         "id": "TrackDayR",
