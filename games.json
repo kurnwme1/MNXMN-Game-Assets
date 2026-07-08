@@ -102,9 +102,9 @@
         "install_dir": "Bento Blocks",
         "version": "23096256",
         "updatetoggle": "",
-        "live_build_id": null,
-        "live_manifest_id": null,
-        "live_depot_id": null,
+        "live_build_id": "23096256",
+        "live_manifest_id": "8868623302903180445",
+        "live_depot_id": "3311671",
         "update_status": "up_to_date"
     },
     {
@@ -510,7 +510,7 @@
         "live_build_id": "14009960",
         "live_manifest_id": "8070600747380932868",
         "live_depot_id": "12211",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "GTAVLegacy",
@@ -618,7 +618,7 @@
         "live_build_id": "23432817",
         "live_manifest_id": "7325378332099278335",
         "live_depot_id": "2215201",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "LOCKDOWNProtocol",
@@ -669,10 +669,10 @@
         "install_dir": "MECCHA CHAMELEON",
         "version": "24051548",
         "updatetoggle": "",
-        "live_build_id": "24051548",
-        "live_manifest_id": "1761584281891838945",
+        "live_build_id": "24089838",
+        "live_manifest_id": "6464482406899752378",
         "live_depot_id": "4704691",
-        "update_status": "up_to_date"
+        "update_status": "update_available"
     },
     {
         "id": "OhDeer",
@@ -861,7 +861,7 @@
         "live_build_id": "20063641",
         "live_manifest_id": "880294164879156752",
         "live_depot_id": "2644472",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "PRAGMATA",
@@ -1077,7 +1077,7 @@
         "live_build_id": "22864294",
         "live_manifest_id": "6388475935469519170",
         "live_depot_id": "3949041",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "Subnautica2",
@@ -1101,10 +1101,10 @@
         "install_dir": "Subnautica2",
         "version": null,
         "updatetoggle": null,
-        "live_build_id": "23446003",
-        "live_manifest_id": "8163669658365755688",
+        "live_build_id": "23922166",
+        "live_manifest_id": "9075255258717112216",
         "live_depot_id": "1962701",
-        "update_status": "up_to_date"
+        "update_status": "update_available"
     },
     {
         "id": "SummersHeartbeat",
@@ -1263,9 +1263,9 @@
         "install_dir": "Windrose",
         "version": "23898412",
         "updatetoggle": "",
-        "live_build_id": "23898412",
-        "live_manifest_id": "5361016218615391977",
+        "live_build_id": "24094645",
+        "live_manifest_id": "6880669301674759218",
         "live_depot_id": "3041231",
-        "update_status": "up_to_date"
+        "update_status": "update_available"
     }
 ]
