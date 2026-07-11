@@ -78,7 +78,7 @@
         "live_build_id": "23007233",
         "live_manifest_id": "90495859774692543",
         "live_depot_id": "284161",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "BentoBlocks",
@@ -132,7 +132,7 @@
         "live_build_id": "23981701",
         "live_manifest_id": "7410206035705105824",
         "live_depot_id": "2560241",
-        "update_status": "update_available"
+        "update_status": "error"
     },
     {
         "id": "BullyScholarshipEdition",
@@ -159,7 +159,7 @@
         "live_build_id": "16483958",
         "live_manifest_id": "8414883404224460046",
         "live_depot_id": "12201",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "CabinCrewLifeSimulator",
@@ -267,7 +267,7 @@
         "live_build_id": "20383525",
         "live_manifest_id": "3389237510439361019",
         "live_depot_id": "1091501",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "ELDENRING",
@@ -402,7 +402,7 @@
         "live_build_id": "23853773",
         "live_manifest_id": "4634443937917573470",
         "live_depot_id": "3731021",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "ForzaHorizon6",
@@ -456,7 +456,7 @@
         "live_build_id": "23172976",
         "live_manifest_id": "1917689724381081508",
         "live_depot_id": "3892271",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "GarfieldKart2",
@@ -510,7 +510,7 @@
         "live_build_id": "14009960",
         "live_manifest_id": "8070600747380932868",
         "live_depot_id": "12211",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "GTAVLegacy",
@@ -537,7 +537,7 @@
         "live_build_id": "22282576",
         "live_manifest_id": "8854874882423166314",
         "live_depot_id": "271594",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "GTASanAndreasTheDefinitiveEdition",
@@ -618,7 +618,7 @@
         "live_build_id": "23432817",
         "live_manifest_id": "7325378332099278335",
         "live_depot_id": "2215201",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "LOCKDOWNProtocol",
@@ -645,7 +645,7 @@
         "live_build_id": "23903438",
         "live_manifest_id": "4000945935168615803",
         "live_depot_id": "2780981",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "MECCHACHAMELEON",
@@ -669,8 +669,8 @@
         "install_dir": "MECCHA CHAMELEON",
         "version": "24051548",
         "updatetoggle": "",
-        "live_build_id": "24089838",
-        "live_manifest_id": "6464482406899752378",
+        "live_build_id": "24149874",
+        "live_manifest_id": "7656467364459811177",
         "live_depot_id": "4704691",
         "update_status": "update_available"
     },
@@ -699,7 +699,7 @@
         "live_build_id": "15116523",
         "live_manifest_id": "7093378176883776929",
         "live_depot_id": "2708451",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "Outbound",
@@ -750,9 +750,9 @@
         "install_dir": "Palworld",
         "version": "24088745",
         "updatetoggle": "",
-        "live_build_id": null,
-        "live_manifest_id": null,
-        "live_depot_id": null,
+        "live_build_id": "24088745",
+        "live_manifest_id": "1208219330428218979",
+        "live_depot_id": "1623731",
         "update_status": "up_to_date"
     },
     {
@@ -942,7 +942,7 @@
         "live_build_id": "20246854",
         "live_manifest_id": "8651477077702693582",
         "live_depot_id": "880941",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "REPO",
@@ -1104,7 +1104,7 @@
         "live_build_id": "22864294",
         "live_manifest_id": "6388475935469519170",
         "live_depot_id": "3949041",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "Subnautica2",
@@ -1158,7 +1158,7 @@
         "live_build_id": "22677587",
         "live_manifest_id": "588878652345365357",
         "live_depot_id": "4179021",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "TheLegendofKorra",
@@ -1212,7 +1212,7 @@
         "live_build_id": "23933333",
         "live_manifest_id": "75550980873167115",
         "live_depot_id": "1511631",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "WatchDogs2",
@@ -1239,7 +1239,7 @@
         "live_build_id": "11638094",
         "live_manifest_id": "3302179946055213415",
         "live_depot_id": "447041",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "WatchDogs",
@@ -1266,7 +1266,7 @@
         "live_build_id": "11241563",
         "live_manifest_id": "5582561119037069284",
         "live_depot_id": "243471",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "Windrose",
@@ -1293,6 +1293,6 @@
         "live_build_id": "24094645",
         "live_manifest_id": "6880669301674759218",
         "live_depot_id": "3041231",
-        "update_status": "update_available"
+        "update_status": "error"
     }
 ]
