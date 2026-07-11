@@ -1294,5 +1294,32 @@
         "live_manifest_id": "6880669301674759218",
         "live_depot_id": "3041231",
         "update_status": "error"
+    },
+    {
+        "id": "LadysSectProtector",
+        "title": "\u7f8e\u5973\uff0c\u8bf7\u522b\u5f71\u54cd\u6211\u6210\u4ed9 (Lady\u2019s Sect Protector)",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/LadysSectProtector.jpg",
+        "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3545990/4088566cfdb83823cdda64b531a7f6cf26bc542e/header.jpg?t=1767694774",
+        "install_mode": "steam",
+        "is_adult": true,
+        "description": "You, Lin Fan, the only male cultivator of the Crane Illusion Sect, were supposed to be the chosen son of the cultivation world, until you realized that the real &quot;crossing tribulation&quot; was not thunder punishment, but a thousand tribulation with the sect's young ladies and sisters.",
+        "size": "25 GB",
+        "requirements": "OS: Windows 10\nProcessor: Intel Core i3-4590 \u53ca\u4ee5\u4e0a\u5904\u7406\u5668\nMemory: 4 GB RAM\nGraphics: \u72ec\u7acb\u663e\u5361\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 25 GB available space",
+        "steam_app_id": "3545990",
+        "steam_build_id": "22197568",
+        "steam_depot_id": "3545991",
+        "manifest_id": "7416224555041202245",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/LadysSectProtector/LadysSectProtector_22197568.zip",
+        "executable_main": "",
+        "executable_backup": "",
+        "patch_url": "",
+        "save_path": "",
+        "install_dir": "\u7f8e\u5973\uff0c\u8bf7\u522b\u5f71\u54cd\u6211\u6210\u4ed9",
+        "version": "22197568",
+        "updatetoggle": "",
+        "live_build_id": null,
+        "live_manifest_id": null,
+        "live_depot_id": null,
+        "update_status": "up_to_date"
     }
 ]
