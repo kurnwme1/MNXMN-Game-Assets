@@ -213,7 +213,7 @@
         "live_build_id": "23921794",
         "live_manifest_id": "6732519671173135267",
         "live_depot_id": "3616551",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "CookingSimulator2BetterTogether",
@@ -240,7 +240,7 @@
         "live_build_id": "23965852",
         "live_manifest_id": "1553042511223274861",
         "live_depot_id": "2455361",
-        "update_status": "update_available"
+        "update_status": "error"
     },
     {
         "id": "Cyberpunk2077",
@@ -375,7 +375,7 @@
         "live_build_id": "21315247",
         "live_manifest_id": "7793127310082659738",
         "live_depot_id": "3021101",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "FiveHeartsUnderOneRoofseason2",
@@ -402,7 +402,7 @@
         "live_build_id": "23853773",
         "live_manifest_id": "4634443937917573470",
         "live_depot_id": "3731021",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "ForzaHorizon6",
@@ -537,7 +537,7 @@
         "live_build_id": "22282576",
         "live_manifest_id": "8854874882423166314",
         "live_depot_id": "271594",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "GTASanAndreasTheDefinitiveEdition",
@@ -618,7 +618,7 @@
         "live_build_id": "23432817",
         "live_manifest_id": "7325378332099278335",
         "live_depot_id": "2215201",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "LOCKDOWNProtocol",
@@ -645,7 +645,7 @@
         "live_build_id": "23903438",
         "live_manifest_id": "4000945935168615803",
         "live_depot_id": "2780981",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "MECCHACHAMELEON",
@@ -669,8 +669,8 @@
         "install_dir": "MECCHA CHAMELEON",
         "version": "24051548",
         "updatetoggle": "",
-        "live_build_id": "24089838",
-        "live_manifest_id": "6464482406899752378",
+        "live_build_id": "24149874",
+        "live_manifest_id": "7656467364459811177",
         "live_depot_id": "4704691",
         "update_status": "update_available"
     },
@@ -729,6 +729,33 @@
         "update_status": "update_available"
     },
     {
+        "id": "Palworld",
+        "title": "Palworld",
+        "_banner_url": "https://games.mnxmnreborn.my.id/assets/Palworld.jpg",
+        "banner_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1783654507",
+        "install_mode": "steam",
+        "is_adult": false,
+        "description": "Fight, farm, build and work alongside mysterious creatures called &quot;Pals&quot; in this completely new multiplayer, open world survival and crafting game!",
+        "size": "40 GB",
+        "requirements": "Requires a 64-bit processor and operating system\nOS: Windows 10 (64-Bit)\nProcessor: Intel Core i5-9400F\nMemory: 16 GB RAM\nGraphics: GeForce GTX 1660\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 40 GB available space\nAdditional Notes: SSD Required - Performance may vary depending on the amount of active Pals.",
+        "steam_app_id": "1623730",
+        "steam_build_id": "24088745",
+        "steam_depot_id": "1623731",
+        "manifest_id": "1208219330428218979",
+        "steam_manifest_zip_url": "https://github.com/kurnwme1/MNXMN-Game-Assets/releases/download/Palworld/Palworld_24088745.zip",
+        "executable_main": "Palworld.exe",
+        "executable_backup": "",
+        "patch_url": "",
+        "save_path": "",
+        "install_dir": "Palworld",
+        "version": "24088745",
+        "updatetoggle": "",
+        "live_build_id": null,
+        "live_manifest_id": null,
+        "live_depot_id": null,
+        "update_status": "error"
+    },
+    {
         "id": "Paralives",
         "title": "Paralives",
         "_banner_url": "https://games.mnxmnreborn.my.id/assets/Paralives.jpg",
@@ -780,7 +807,7 @@
         "live_build_id": "23871350",
         "live_manifest_id": "933519285287739916",
         "live_depot_id": "3527291",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "Phasmophobia",
@@ -861,7 +888,7 @@
         "live_build_id": "20063641",
         "live_manifest_id": "880294164879156752",
         "live_depot_id": "2644472",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "PRAGMATA",
@@ -1023,7 +1050,7 @@
         "live_build_id": "23634047",
         "live_manifest_id": "2990234554016452841",
         "live_depot_id": "3764201",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "RestAreaSimulator",
@@ -1077,7 +1104,7 @@
         "live_build_id": "22864294",
         "live_manifest_id": "6388475935469519170",
         "live_depot_id": "3949041",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "Subnautica2",
