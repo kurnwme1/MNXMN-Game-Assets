@@ -24,7 +24,7 @@
         "live_build_id": "23909702",
         "live_manifest_id": "7586046228060338110",
         "live_depot_id": "3768761",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "AvatarTheLastAirbenderQuestforBalance",
@@ -78,7 +78,7 @@
         "live_build_id": "23007233",
         "live_manifest_id": "90495859774692543",
         "live_depot_id": "284161",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "BentoBlocks",
@@ -213,7 +213,7 @@
         "live_build_id": "23921794",
         "live_manifest_id": "6732519671173135267",
         "live_depot_id": "3616551",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "CookingSimulator2BetterTogether",
@@ -267,7 +267,7 @@
         "live_build_id": "20383525",
         "live_manifest_id": "3389237510439361019",
         "live_depot_id": "1091501",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "ELDENRING",
@@ -294,7 +294,7 @@
         "live_build_id": "22984413",
         "live_manifest_id": "8620480158702245750",
         "live_depot_id": "1245621",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "EscapetheBackrooms",
@@ -375,7 +375,7 @@
         "live_build_id": "21315247",
         "live_manifest_id": "7793127310082659738",
         "live_depot_id": "3021101",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "FiveHeartsUnderOneRoofseason2",
@@ -402,7 +402,7 @@
         "live_build_id": "23853773",
         "live_manifest_id": "4634443937917573470",
         "live_depot_id": "3731021",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "ForzaHorizon6",
@@ -429,7 +429,7 @@
         "live_build_id": "23832027",
         "live_manifest_id": "8528223014919165744",
         "live_depot_id": "2483191",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "GambleWithYourFriends",
@@ -456,7 +456,7 @@
         "live_build_id": "23172976",
         "live_manifest_id": "1917689724381081508",
         "live_depot_id": "3892271",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "GarfieldKart2",
@@ -483,7 +483,7 @@
         "live_build_id": "21557400",
         "live_manifest_id": "8857664312835024200",
         "live_depot_id": "3239651",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "GTAIV",
@@ -537,7 +537,7 @@
         "live_build_id": "22282576",
         "live_manifest_id": "8854874882423166314",
         "live_depot_id": "271594",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "GTASanAndreasTheDefinitiveEdition",
@@ -669,10 +669,10 @@
         "install_dir": "MECCHA CHAMELEON",
         "version": "24051548",
         "updatetoggle": "",
-        "live_build_id": "24149874",
-        "live_manifest_id": "7656467364459811177",
+        "live_build_id": "24170405",
+        "live_manifest_id": "5351355265969581578",
         "live_depot_id": "4704691",
-        "update_status": "error"
+        "update_status": "update_available"
     },
     {
         "id": "OhDeer",
@@ -699,7 +699,7 @@
         "live_build_id": "15116523",
         "live_manifest_id": "7093378176883776929",
         "live_depot_id": "2708451",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "Outbound",
@@ -753,7 +753,7 @@
         "live_build_id": "24088745",
         "live_manifest_id": "1208219330428218979",
         "live_depot_id": "1623731",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "Paralives",
@@ -807,7 +807,7 @@
         "live_build_id": "23871350",
         "live_manifest_id": "933519285287739916",
         "live_depot_id": "3527291",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "Phasmophobia",
@@ -861,7 +861,7 @@
         "live_build_id": "20704864",
         "live_manifest_id": "1693052742714430748",
         "live_depot_id": "1509961",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "PICOPARK2",
@@ -888,7 +888,7 @@
         "live_build_id": "20063641",
         "live_manifest_id": "880294164879156752",
         "live_depot_id": "2644472",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "PRAGMATA",
@@ -915,7 +915,7 @@
         "live_build_id": "23443442",
         "live_manifest_id": "6330832861176696160",
         "live_depot_id": "3357651",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "PummelParty",
@@ -942,7 +942,7 @@
         "live_build_id": "20246854",
         "live_manifest_id": "8651477077702693582",
         "live_depot_id": "880941",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "REPO",
@@ -969,7 +969,7 @@
         "live_build_id": "23363152",
         "live_manifest_id": "8225435692675993447",
         "live_depot_id": "3241661",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "Raft",
@@ -1023,7 +1023,7 @@
         "live_build_id": "13773296",
         "live_manifest_id": "2258488483491377476",
         "live_depot_id": "1174182",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "ResidentEvilRequiem",
@@ -1212,7 +1212,7 @@
         "live_build_id": "23933333",
         "live_manifest_id": "75550980873167115",
         "live_depot_id": "1511631",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "WatchDogs2",
@@ -1293,7 +1293,7 @@
         "live_build_id": "24094645",
         "live_manifest_id": "6880669301674759218",
         "live_depot_id": "3041231",
-        "update_status": "update_available"
+        "update_status": "error"
     },
     {
         "id": "LadysSectProtector",
