@@ -24,7 +24,7 @@
         "live_build_id": "23909702",
         "live_manifest_id": "7586046228060338110",
         "live_depot_id": "3768761",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "AvatarTheLastAirbenderQuestforBalance",
@@ -78,7 +78,7 @@
         "live_build_id": "23007233",
         "live_manifest_id": "90495859774692543",
         "live_depot_id": "284161",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "BentoBlocks",
@@ -240,7 +240,7 @@
         "live_build_id": "23965852",
         "live_manifest_id": "1553042511223274861",
         "live_depot_id": "2455361",
-        "update_status": "error"
+        "update_status": "update_available"
     },
     {
         "id": "Cyberpunk2077",
@@ -348,7 +348,7 @@
         "live_build_id": "20319156",
         "live_manifest_id": "222271375584572596",
         "live_depot_id": "2916431",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "FiveHeartsUnderOneRoof",
@@ -564,7 +564,7 @@
         "live_build_id": "16391096",
         "live_manifest_id": "6814041191190748315",
         "live_depot_id": "1547001",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "InternetCafeSimulator2",
@@ -753,7 +753,7 @@
         "live_build_id": "24088745",
         "live_manifest_id": "1208219330428218979",
         "live_depot_id": "1623731",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "Paralives",
@@ -915,7 +915,7 @@
         "live_build_id": "23443442",
         "live_manifest_id": "6330832861176696160",
         "live_depot_id": "3357651",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "PummelParty",
@@ -942,7 +942,7 @@
         "live_build_id": "20246854",
         "live_manifest_id": "8651477077702693582",
         "live_depot_id": "880941",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "REPO",
@@ -1023,7 +1023,7 @@
         "live_build_id": "13773296",
         "live_manifest_id": "2258488483491377476",
         "live_depot_id": "1174182",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "ResidentEvilRequiem",
@@ -1104,7 +1104,7 @@
         "live_build_id": "22864294",
         "live_manifest_id": "6388475935469519170",
         "live_depot_id": "3949041",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "Subnautica2",
@@ -1293,7 +1293,7 @@
         "live_build_id": "24094645",
         "live_manifest_id": "6880669301674759218",
         "live_depot_id": "3041231",
-        "update_status": "error"
+        "update_status": "update_available"
     },
     {
         "id": "LadysSectProtector",
