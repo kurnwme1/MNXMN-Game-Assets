@@ -78,7 +78,7 @@
         "live_build_id": "23007233",
         "live_manifest_id": "90495859774692543",
         "live_depot_id": "284161",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "BentoBlocks",
@@ -348,7 +348,7 @@
         "live_build_id": "20319156",
         "live_manifest_id": "222271375584572596",
         "live_depot_id": "2916431",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "FiveHeartsUnderOneRoof",
@@ -375,7 +375,7 @@
         "live_build_id": "21315247",
         "live_manifest_id": "7793127310082659738",
         "live_depot_id": "3021101",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "FiveHeartsUnderOneRoofseason2",
@@ -426,10 +426,10 @@
         "install_dir": "ForzaHorizon6",
         "version": "",
         "updatetoggle": "",
-        "live_build_id": "23832027",
-        "live_manifest_id": "8528223014919165744",
+        "live_build_id": "24126227",
+        "live_manifest_id": "2541360848233493756",
         "live_depot_id": "2483191",
-        "update_status": "up_to_date"
+        "update_status": "update_available"
     },
     {
         "id": "GambleWithYourFriends",
@@ -564,7 +564,7 @@
         "live_build_id": "16391096",
         "live_manifest_id": "6814041191190748315",
         "live_depot_id": "1547001",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "InternetCafeSimulator2",
@@ -669,8 +669,8 @@
         "install_dir": "MECCHA CHAMELEON",
         "version": "24051548",
         "updatetoggle": "",
-        "live_build_id": "24170405",
-        "live_manifest_id": "5351355265969581578",
+        "live_build_id": "24176442",
+        "live_manifest_id": "8387924540028786821",
         "live_depot_id": "4704691",
         "update_status": "update_available"
     },
@@ -780,7 +780,7 @@
         "live_build_id": "23871350",
         "live_manifest_id": "933519285287739916",
         "live_depot_id": "3527291",
-        "update_status": "up_to_date"
+        "update_status": "error"
     },
     {
         "id": "Phasmophobia",
@@ -915,7 +915,7 @@
         "live_build_id": "20246854",
         "live_manifest_id": "8651477077702693582",
         "live_depot_id": "880941",
-        "update_status": "error"
+        "update_status": "up_to_date"
     },
     {
         "id": "REPO",
