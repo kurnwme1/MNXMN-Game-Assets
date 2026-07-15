@@ -24,7 +24,8 @@
         "live_build_id": "23909702",
         "live_manifest_id": "7586046228060338110",
         "live_depot_id": "3768761",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "AvatarTheLastAirbenderQuestforBalance",
@@ -51,7 +52,8 @@
         "live_build_id": "12455413",
         "live_manifest_id": "773137660092715490",
         "live_depot_id": "1620031",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "BeamNGdrive",
@@ -78,7 +80,8 @@
         "live_build_id": "23007233",
         "live_manifest_id": "90495859774692543",
         "live_depot_id": "284161",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "BentoBlocks",
@@ -105,7 +108,8 @@
         "live_build_id": "23096256",
         "live_manifest_id": "8868623302903180445",
         "live_depot_id": "3311671",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "Biped2",
@@ -132,7 +136,8 @@
         "live_build_id": "23981701",
         "live_manifest_id": "7410206035705105824",
         "live_depot_id": "2560241",
-        "update_status": "update_available"
+        "update_status": "update_available",
+        "is_visible": true
     },
     {
         "id": "BullyScholarshipEdition",
@@ -159,7 +164,8 @@
         "live_build_id": "16483958",
         "live_manifest_id": "8414883404224460046",
         "live_depot_id": "12201",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "CabinCrewLifeSimulator",
@@ -186,7 +192,8 @@
         "live_build_id": "24035311",
         "live_manifest_id": "4279851618197794473",
         "live_depot_id": "2959612",
-        "update_status": "update_available"
+        "update_status": "update_available",
+        "is_visible": true
     },
     {
         "id": "CarDealershipSimulator2",
@@ -213,7 +220,8 @@
         "live_build_id": "23921794",
         "live_manifest_id": "6732519671173135267",
         "live_depot_id": "3616551",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "CookingSimulator2BetterTogether",
@@ -240,7 +248,8 @@
         "live_build_id": "23965852",
         "live_manifest_id": "1553042511223274861",
         "live_depot_id": "2455361",
-        "update_status": "update_available"
+        "update_status": "update_available",
+        "is_visible": true
     },
     {
         "id": "Cyberpunk2077",
@@ -267,7 +276,8 @@
         "live_build_id": "20383525",
         "live_manifest_id": "3389237510439361019",
         "live_depot_id": "1091501",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "ELDENRING",
@@ -294,7 +304,8 @@
         "live_build_id": "22984413",
         "live_manifest_id": "8620480158702245750",
         "live_depot_id": "1245621",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "EscapetheBackrooms",
@@ -321,7 +332,8 @@
         "live_build_id": "23657885",
         "live_manifest_id": "740479633715325867",
         "live_depot_id": "1943951",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "FastFoodSimulator",
@@ -348,7 +360,8 @@
         "live_build_id": "20319156",
         "live_manifest_id": "222271375584572596",
         "live_depot_id": "2916431",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "FiveHeartsUnderOneRoof",
@@ -375,7 +388,8 @@
         "live_build_id": "21315247",
         "live_manifest_id": "7793127310082659738",
         "live_depot_id": "3021101",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "FiveHeartsUnderOneRoofseason2",
@@ -402,7 +416,8 @@
         "live_build_id": "23853773",
         "live_manifest_id": "4634443937917573470",
         "live_depot_id": "3731021",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "ForzaHorizon6",
@@ -429,7 +444,8 @@
         "live_build_id": "24126227",
         "live_manifest_id": "2541360848233493756",
         "live_depot_id": "2483191",
-        "update_status": "update_available"
+        "update_status": "update_available",
+        "is_visible": false
     },
     {
         "id": "GambleWithYourFriends",
@@ -456,7 +472,8 @@
         "live_build_id": "23172976",
         "live_manifest_id": "1917689724381081508",
         "live_depot_id": "3892271",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "GarfieldKart2",
@@ -483,7 +500,8 @@
         "live_build_id": "21557400",
         "live_manifest_id": "8857664312835024200",
         "live_depot_id": "3239651",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "GTAIV",
@@ -510,7 +528,8 @@
         "live_build_id": "14009960",
         "live_manifest_id": "8070600747380932868",
         "live_depot_id": "12211",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "GTAVLegacy",
@@ -537,7 +556,8 @@
         "live_build_id": "22282576",
         "live_manifest_id": "8854874882423166314",
         "live_depot_id": "271594",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "GTASanAndreasTheDefinitiveEdition",
@@ -564,7 +584,8 @@
         "live_build_id": "16391096",
         "live_manifest_id": "6814041191190748315",
         "live_depot_id": "1547001",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "InternetCafeSimulator2",
@@ -591,7 +612,8 @@
         "live_build_id": "8516877",
         "live_manifest_id": "3099060878986052939",
         "live_depot_id": "1563181",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "LEGOBatmanLegacyoftheDarkKnight",
@@ -618,7 +640,8 @@
         "live_build_id": "23432817",
         "live_manifest_id": "7325378332099278335",
         "live_depot_id": "2215201",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "LOCKDOWNProtocol",
@@ -645,7 +668,8 @@
         "live_build_id": "23903438",
         "live_manifest_id": "4000945935168615803",
         "live_depot_id": "2780981",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "MECCHACHAMELEON",
@@ -672,7 +696,8 @@
         "live_build_id": "24176442",
         "live_manifest_id": "8387924540028786821",
         "live_depot_id": "4704691",
-        "update_status": "update_available"
+        "update_status": "update_available",
+        "is_visible": true
     },
     {
         "id": "OhDeer",
@@ -699,7 +724,8 @@
         "live_build_id": "15116523",
         "live_manifest_id": "7093378176883776929",
         "live_depot_id": "2708451",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "Outbound",
@@ -726,7 +752,8 @@
         "live_build_id": "24017093",
         "live_manifest_id": "2755704904326554733",
         "live_depot_id": "2681031",
-        "update_status": "update_available"
+        "update_status": "update_available",
+        "is_visible": true
     },
     {
         "id": "Paralives",
@@ -753,7 +780,8 @@
         "live_build_id": "24019783",
         "live_manifest_id": "3246534285947004616",
         "live_depot_id": "1118522",
-        "update_status": "update_available"
+        "update_status": "update_available",
+        "is_visible": true
     },
     {
         "id": "PEAK",
@@ -780,7 +808,8 @@
         "live_build_id": "23871350",
         "live_manifest_id": "933519285287739916",
         "live_depot_id": "3527291",
-        "update_status": "error"
+        "update_status": "error",
+        "is_visible": true
     },
     {
         "id": "Phasmophobia",
@@ -807,7 +836,8 @@
         "live_build_id": "23542454",
         "live_manifest_id": "4999359286321001032",
         "live_depot_id": "739631",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "PICOPARK",
@@ -834,7 +864,8 @@
         "live_build_id": "20704864",
         "live_manifest_id": "1693052742714430748",
         "live_depot_id": "1509961",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "PICOPARK2",
@@ -861,7 +892,8 @@
         "live_build_id": "20063641",
         "live_manifest_id": "880294164879156752",
         "live_depot_id": "2644472",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "PRAGMATA",
@@ -888,7 +920,8 @@
         "live_build_id": "23443442",
         "live_manifest_id": "6330832861176696160",
         "live_depot_id": "3357651",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "PummelParty",
@@ -915,7 +948,8 @@
         "live_build_id": "20246854",
         "live_manifest_id": "8651477077702693582",
         "live_depot_id": "880941",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "REPO",
@@ -942,7 +976,8 @@
         "live_build_id": "23363152",
         "live_manifest_id": "8225435692675993447",
         "live_depot_id": "3241661",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "Raft",
@@ -969,7 +1004,8 @@
         "live_build_id": "22312909",
         "live_manifest_id": "4830832075480360897",
         "live_depot_id": "648801",
-        "update_status": "error"
+        "update_status": "error",
+        "is_visible": true
     },
     {
         "id": "RedDeadRedemption2",
@@ -996,7 +1032,8 @@
         "live_build_id": "13773296",
         "live_manifest_id": "2258488483491377476",
         "live_depot_id": "1174182",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "ResidentEvilRequiem",
@@ -1023,7 +1060,8 @@
         "live_build_id": "23634047",
         "live_manifest_id": "2990234554016452841",
         "live_depot_id": "3764201",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "RestAreaSimulator",
@@ -1050,7 +1088,8 @@
         "live_build_id": "23859645",
         "live_manifest_id": "5883120205914689264",
         "live_depot_id": "3732961",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "RVThereYet?",
@@ -1077,7 +1116,8 @@
         "live_build_id": "22864294",
         "live_manifest_id": "6388475935469519170",
         "live_depot_id": "3949041",
-        "update_status": "error"
+        "update_status": "error",
+        "is_visible": true
     },
     {
         "id": "Subnautica2",
@@ -1104,7 +1144,8 @@
         "live_build_id": "23922166",
         "live_manifest_id": "9075255258717112216",
         "live_depot_id": "1962701",
-        "update_status": "update_available"
+        "update_status": "update_available",
+        "is_visible": true
     },
     {
         "id": "SummersHeartbeat",
@@ -1131,7 +1172,8 @@
         "live_build_id": "22677587",
         "live_manifest_id": "588878652345365357",
         "live_depot_id": "4179021",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "TheLegendofKorra",
@@ -1158,7 +1200,8 @@
         "live_build_id": "",
         "live_manifest_id": "",
         "live_depot_id": "",
-        "update_status": "error"
+        "update_status": "error",
+        "is_visible": true
     },
     {
         "id": "TrackDayR",
@@ -1185,7 +1228,8 @@
         "live_build_id": "23933333",
         "live_manifest_id": "75550980873167115",
         "live_depot_id": "1511631",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "WatchDogs2",
@@ -1212,7 +1256,8 @@
         "live_build_id": "11638094",
         "live_manifest_id": "3302179946055213415",
         "live_depot_id": "447041",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "WatchDogs",
@@ -1239,7 +1284,8 @@
         "live_build_id": "11241563",
         "live_manifest_id": "5582561119037069284",
         "live_depot_id": "243471",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     },
     {
         "id": "Windrose",
@@ -1266,7 +1312,8 @@
         "live_build_id": "24094645",
         "live_manifest_id": "6880669301674759218",
         "live_depot_id": "3041231",
-        "update_status": "update_available"
+        "update_status": "update_available",
+        "is_visible": true
     },
     {
         "id": "LadysSectProtector",
@@ -1293,6 +1340,7 @@
         "live_build_id": "22197568",
         "live_manifest_id": "7416224555041202245",
         "live_depot_id": "3545991",
-        "update_status": "up_to_date"
+        "update_status": "up_to_date",
+        "is_visible": true
     }
 ]
