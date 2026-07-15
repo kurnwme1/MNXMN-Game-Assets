@@ -445,7 +445,7 @@
         "live_manifest_id": "2541360848233493756",
         "live_depot_id": "2483191",
         "update_status": "update_available",
-        "is_visible": false
+        "is_visible": true
     },
     {
         "id": "GambleWithYourFriends",
