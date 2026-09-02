@@ -1,6 +1,6 @@
 {
     "hubcap_api_key": "smm_a3270230c423d384154e4cbb3ef39dd9ad75fda0b35cbb6bfd5823fccd8d73f15784a918c3bad33a56de99d49f50188f",
-    "maintenance": "on",
+    "maintenance": "off",
     "stream_extension": "on",
     "tester_mode_feature": "off"
 }
