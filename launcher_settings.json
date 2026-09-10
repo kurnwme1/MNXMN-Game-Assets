@@ -2,5 +2,8 @@
     "hubcap_api_key": "smm_52d54f73d221c575b6b23c207249dcbd0e1717cf85a24d4ffaffdf0ec3140b1e0dd31775687b2ec7be2f60b6ba8a3e93",
     "maintenance": "off",
     "stream_extension": "on",
-    "tester_mode_feature": "off"
+    "tester_mode_feature": "off",
+    "zip_retention_count": 3,
+    "discord_admin_alert_webhook": "https://discord.com/api/webhooks/1545580421058920569/tEUdGSsWifCQcLzDZ599RdmKBnf550eIRz4xta-HThXsst9IMjLzQqIahD5jCRjAHJ41",
+    "cron_secret_token": "mnxmn_cron_99a8b7c6d5e4f3a2b1"
 }
