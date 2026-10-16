@@ -1,7 +1,7 @@
 {
     "hubcap_api_key": "smm_ab38cecc787f0d262fa9aa4e0b37d8c5cad2da55fbc543c8b611393752a6353693be5e0c9ae6fed9517897f07e82e21c",
     "maintenance": "off",
-    "stream_extension": "on",
+    "stream_extension": "off",
     "tester_mode_feature": "off",
     "zip_retention_count": 3,
     "discord_admin_alert_webhook": "https://discord.com/api/webhooks/1545580421058920569/tEUdGSsWifCQcLzDZ599RdmKBnf550eIRz4xta-HThXsst9IMjLzQqIahD5jCRjAHJ41",
